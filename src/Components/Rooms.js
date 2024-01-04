@@ -18,9 +18,9 @@ const Rooms = () => {
             <div className="content">
               <h1 className="font">Deluxe</h1>
               <h2></h2>
-              <center>
+              
                 <h2 className="font">92%❤️</h2>
-              </center>
+              
               <span>BookNow</span>
             </div>
           </div>
@@ -34,12 +34,12 @@ const Rooms = () => {
             <div className="content">
               <h1 className="font">Basic</h1>
               <h2></h2>
-              <center>
+              
                 <h2 className="font">Popular📈</h2>
                 {/* <h2></h2> */}
                 <h2 className="font">93%❤️</h2>
-              </center>
-              <a href="https://www.basel.com/en">BookNow</a>
+              
+              <span>BookNow</span>
             </div>
           </div>
 
@@ -52,12 +52,10 @@ const Rooms = () => {
             <div className="content">
               <h1 className="font">Brand</h1>
               <h2></h2>
-              <center>
+              
                 <h2 className="font">93%❤️</h2>
-              </center>
-              <a href="https://www.myswitzerland.com/en-in/destinations/zurich-1/">
-                BookNow
-              </a>
+             
+              <span>BookNow</span>
             </div>
           </div>
 
@@ -70,12 +68,10 @@ const Rooms = () => {
             <div className="content">
               <h1 className="font">Legend</h1>
               <h2></h2>
-              <center>
+              
                 <h2 className="font">93%❤️</h2>
-              </center>
-              <a href="https://www.myswitzerland.com/en/destinations/st-moritz/">
-                BookNow
-              </a>
+              
+              <span>BookNow</span>
             </div>
           </div>
         </div>
