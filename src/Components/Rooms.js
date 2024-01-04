@@ -4,9 +4,7 @@ const Rooms = () => {
   return (
     <>
       <div className="main">
-        <h1 className="title"></h1>
-        <h2></h2>
-        <h2></h2>
+        
 
         <div className="container">
           <h1 className="cap">Luxurious Tranquil Retreat</h1>
@@ -17,7 +15,7 @@ const Rooms = () => {
             />
             <div className="content">
               <h1 className="font">Deluxe</h1>
-              <h2></h2>
+              
               
                 <h2 className="font">92%❤️</h2>
               
@@ -33,7 +31,7 @@ const Rooms = () => {
             />
             <div className="content">
               <h1 className="font">Basic</h1>
-              <h2></h2>
+              
               
                 <h2 className="font">Popular📈</h2>
                 {/* <h2></h2> */}
@@ -51,7 +49,7 @@ const Rooms = () => {
             />
             <div className="content">
               <h1 className="font">Brand</h1>
-              <h2></h2>
+              
               
                 <h2 className="font">93%❤️</h2>
              
@@ -67,7 +65,7 @@ const Rooms = () => {
             />
             <div className="content">
               <h1 className="font">Legend</h1>
-              <h2></h2>
+             
               
                 <h2 className="font">93%❤️</h2>
               
