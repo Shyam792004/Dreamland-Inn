@@ -21,7 +21,7 @@ const Rooms = () => {
               <center>
                 <h2 className="font">92%❤️</h2>
               </center>
-              <a href="https://www.geneve.com/">BookNow</a>
+              <span>BookNow</span>
             </div>
           </div>
 
